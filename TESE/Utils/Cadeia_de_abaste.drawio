@@ -1,0 +1,72 @@
+<mxfile host="app.diagrams.net" modified="2023-05-13T11:14:42.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WP1X_MKcwpko51n1YZfD" version="21.3.0" type="device">
+  <diagram name="Página-1" id="QYuZvRtSao1EBlG9v5-g">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJ4Hj4v9XIo8xN_H2n6_-1" target="CJ4Hj4v9XIo8xN_H2n6_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CJ4Hj4v9XIo8xN_H2n6_-2" target="CJ4Hj4v9XIo8xN_H2n6_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="370" />
+              <mxPoint x="400" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJ4Hj4v9XIo8xN_H2n6_-3" target="CJ4Hj4v9XIo8xN_H2n6_-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJ4Hj4v9XIo8xN_H2n6_-3" target="CJ4Hj4v9XIo8xN_H2n6_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CJ4Hj4v9XIo8xN_H2n6_-4" target="CJ4Hj4v9XIo8xN_H2n6_-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-4" value="Centro de Distribuição" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-5" value="Retalhista" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-13" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="320" width="690" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-15" value="Distribuição e Logística" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CJ4Hj4v9XIo8xN_H2n6_-13">
+          <mxGeometry y="130" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-3" value="Distribuidor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CJ4Hj4v9XIo8xN_H2n6_-13">
+          <mxGeometry x="270" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-14" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="100" width="690" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-2" value="Produtores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CJ4Hj4v9XIo8xN_H2n6_-14">
+          <mxGeometry x="40" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-1" value="Fornecedores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="CJ4Hj4v9XIo8xN_H2n6_-14">
+          <mxGeometry x="150" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="CJ4Hj4v9XIo8xN_H2n6_-14" source="CJ4Hj4v9XIo8xN_H2n6_-1" target="CJ4Hj4v9XIo8xN_H2n6_-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="94" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CJ4Hj4v9XIo8xN_H2n6_-16" value="Planeamento da Produção e controlo do inventário" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="CJ4Hj4v9XIo8xN_H2n6_-14">
+          <mxGeometry x="390" y="85" width="290" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
